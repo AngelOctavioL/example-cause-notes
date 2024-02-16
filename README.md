@@ -5,7 +5,7 @@ Here goes my notes and exercises for the 'Diplomado de
 
 ## First Modelo
 
-- MacOS
+- OS X
 - Variables y Constantes
 - Arrays
 - Numbers
