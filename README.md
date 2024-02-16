@@ -1,6 +1,7 @@
 # Class Notes
 
-Here goes my notes for 'Diplomado de Aplicaciones Móviles en iOS'.
+Here goes my notes and exercises for the 'Diplomado de 
+    Aplicaciones Móviles en iOS'.
 
 ## First Modelo
 
